@@ -1,2 +1,2 @@
 # statistics
-Assignments from my statistics class
+Assignments from PUBPOL 741 - Empirical Analysis for Development
